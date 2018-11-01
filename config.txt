@@ -1,6 +1,6 @@
 token= NTA3NjcwOTA5MTg4OTY0Mzky.Dr0Flw.f6fWL1VKCC7E-jdh5u7WChp76lY
 owner= 471618223813689345 
-prefix= Vplay
+prefix= V
 game= Volcano Private
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
 songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
